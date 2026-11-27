@@ -30,11 +30,12 @@ Developed by zyr3xyt.yml under Shark Studios.
 
 🔗 Official Links
 
-Resource| Link
-GitHub| "ssEmojis Repository" <https://github.com/Zyr3xYT/ssEmojis>
-SpigotMC| "ssEmojis Resource" <https://www.spigotmc.org/resources/ssemojis-universal-emojis-and-custom-image-system.140970/>
-Issues| "Report a Bug" <https://github.com/Zyr3xYT/ssEmojis/issues>
-Discord| "Join Shark Studios" <https://discord.gg/yzTTAeNArf>
+- GitHub: "ssEmojis Repository" (https://github.com/Zyr3xYT/ssEmojis)
+- SpigotMC: "ssEmojis Resource" (https://www.spigotmc.org/resources/ssemojis-universal-emojis-and-custom-image-system.140970/)
+- Issues: "Report a Bug" (https://github.com/Zyr3xYT/ssEmojis/issues)
+- Discord: "Join Shark Studios" (https://discord.gg/yzTTAeNArf)
+- Source Code: "Browse Repository" (https://github.com/Zyr3xYT/ssEmojis/tree/main)
+- Documentation: "Read README" (https://github.com/Zyr3xYT/ssEmojis#readme)
 
 ⚙️ Requirements
 
@@ -63,7 +64,7 @@ Aliases:
 - "/emoji"
 - "/emojis"
 
-Image command family
+Image Command Family
 
 Command| Purpose
 "/ssem image list"| List image entries
@@ -128,15 +129,14 @@ The source archive is available in this repository.
 
 Extract the archive, open the project in your Java IDE or build environment, and use the build configuration included with the source.
 
+"Browse ssEmojis Source Code" (https://github.com/Zyr3xYT/ssEmojis/tree/main)
+
 🐛 Support & Bug Reports
 
 Found a bug or have a feature request?
 
-"Open a GitHub Issue" <https://github.com/Zyr3xYT/ssEmojis/issues>
-
-You can also join our community:
-
-"Shark Studios Discord" <https://discord.gg/yzTTAeNArf>
+- "Open a GitHub Issue" (https://github.com/Zyr3xYT/ssEmojis/issues)
+- "Join Shark Studios Discord" (https://discord.gg/yzTTAeNArf)
 
 When reporting an issue, include:
 
