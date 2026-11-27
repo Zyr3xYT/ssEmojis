@@ -30,12 +30,12 @@ Developed by zyr3xyt.yml under Shark Studios.
 
 🔗 Official Links
 
-- GitHub: "ssEmojis Repository" (https://github.com/Zyr3xYT/ssEmojis)
-- SpigotMC: "ssEmojis Resource" (https://www.spigotmc.org/resources/ssemojis-universal-emojis-and-custom-image-system.140970/)
-- Issues: "Report a Bug" (https://github.com/Zyr3xYT/ssEmojis/issues)
-- Discord: "Join Shark Studios" (https://discord.gg/yzTTAeNArf)
-- Source Code: "Browse Repository" (https://github.com/Zyr3xYT/ssEmojis/tree/main)
-- Documentation: "Read README" (https://github.com/Zyr3xYT/ssEmojis#readme)
+- GitHub: [ssEmojis Repository]<https://github.com/Zyr3xYT/ssEmojis>
+- SpigotMC: [ssEmojis Resource<https://www.spigotmc.org/resources/ssemojis-universal-emojis-and-custom-image-system.140970/>
+- Issues: [Report a Bug]<https://github.com/Zyr3xYT/ssEmojis/issues>
+- Discord: [Join Shark Studios]<https://discord.gg/yzTTAeNArf>
+- Source Code: [Browse Repository]<https://github.com/Zyr3xYT/ssEmojis/tree/main>
+- Documentation: [Read README]<https://github.com/Zyr3xYT/ssEmojis#readme>
 
 ⚙️ Requirements
 
@@ -135,8 +135,8 @@ Extract the archive, open the project in your Java IDE or build environment, and
 
 Found a bug or have a feature request?
 
-- "Open a GitHub Issue" (https://github.com/Zyr3xYT/ssEmojis/issues)
-- "Join Shark Studios Discord" (https://discord.gg/yzTTAeNArf)
+- [Open a GitHub Issue]<https://github.com/Zyr3xYT/ssEmojis/issues>
+- [Join Shark Studios Discord]<https://discord.gg/yzTTAeNArf>
 
 When reporting an issue, include:
 
